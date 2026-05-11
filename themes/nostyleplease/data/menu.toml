@@ -1,0 +1,42 @@
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  limit = 10
+  show_more = true
+  show_more_text = "archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "links"
+
+  [[entries.entries]]
+  title = "twitch"
+  url = "https://twitch.tv/trap0xcc"
+  external = true
+
+  [[entries.entries]]
+  title = "youtube"
+  url = "https://youtube.com/@trap0xcc"
+  external = true
+
+  [[entries.entries]]
+  title = "twitter/x"
+  url = "https://x.com/trap0xcc"
+  external = true
+
+  [[entries.entries]]
+  title = "discord"
+  url = "https://discord.gg/sHhXpgwGN"
+  external = true
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/trap0xcc"
+  external = true
+
+  [[entries.entries]]
+  title = "codeberg"
+  url = "https://codeberg.org/trap0xcc"
+  external = true

@@ -1,0 +1,10 @@
+baseURL = 'https://0xcc.io/'
+locale = 'en-us'
+title = '0xCC'
+theme = 'nostyleplease'
+
+[params]
+  description = "Understanding Computation"
+  [params.theme_config]
+    isShowFooter = false
+    show_description = true

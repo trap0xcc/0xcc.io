@@ -1,0 +1,13 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+
+# Hugo module cache (optional)
+.hugo_build.lock
+
+# Linux
+*~
+
+# Vim
+*.swp
+*.swo
