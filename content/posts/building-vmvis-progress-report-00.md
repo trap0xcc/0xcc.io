@@ -1,7 +1,7 @@
 +++
 date = '2026-05-19T11:57:13-06:00'
 draft = false
-title = 'vmvis Progress Report 00'
+title = 'Building `vmvis`: Progress Report 00'
 +++
 
 I am starting work on a fun project I have been thinking about implementing for
@@ -34,11 +34,11 @@ Secondary goals:
 - Provide hand written explanations for different areas of memory for users to
   more easily follow along and learn
 - Allow for the ability to select byte ranges and re-interpret data
-- Visualise writes to memory in near-real-time
-- Visualise each thread's execution context including instruction pointer, stack
+- Visualize writes to memory in near-real-time
+- Visualize each thread's execution context including instruction pointer, stack
   pointer, frame pointer, etc
 - Visualize common memory allocator data structures if using libc malloc/free
-- Support for huge/giant pages
+- Support for huge pages
 - Support for aarch64
 - Support for Mach-O/macOS, likely not to happen but it would be helpful for
   non-linux users to learn about virtual memory
