@@ -8,3 +8,6 @@ theme = 'nostyleplease'
   [params.theme_config]
     isShowFooter = false
     show_description = true
+
+[markup.goldmark.renderer]
+  unsafe = true
