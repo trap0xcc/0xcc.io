@@ -50,7 +50,7 @@ initial ideas which undoubtedly will be invalidated as I progress:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/vmvis-00-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/img/vmvis-00-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/img/vmvis-00-light.svg">
   <img alt="Initial Design Ideas" src="/img/vmvis-00-dark.svg">
 </picture>
 
