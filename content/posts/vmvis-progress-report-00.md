@@ -1,7 +1,7 @@
 +++
 date = '2026-05-19T11:57:13-06:00'
 draft = false
-title = 'Building `vmvis`: Progress Report 00'
+title = 'vmvis: Progress Report 00'
 +++
 
 I am starting work on a fun project I have been thinking about implementing for
