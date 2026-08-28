@@ -128,7 +128,7 @@ and it was also impacted.
 
 ## Timeline
 
-The timeline of the introduction of this 
+The timeline of commits from the introduction to resolution of this issue:
 
 - [June 1, 2025 — Docker group membership introduced `25799ee`](https://github.com/basecamp/omarchy/commit/25799ee91f54c35e6d340df3aae8ac2b21fae0a4)
 - [June 2, 2025 — Docker group addition temporarily disabled `c5ee230`](https://github.com/basecamp/omarchy/commit/c5ee230dafe665d78b65b116fb23cae3ead6b174)
