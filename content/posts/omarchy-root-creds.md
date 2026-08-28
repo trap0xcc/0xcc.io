@@ -123,8 +123,8 @@ had not.
 
 ## Impacted Versions
 
-This affects versions prior to 4.0.0. I tested it on the latest 3.x iso (3.8.4) and it
-was also impacted.
+This affects versions prior to 4.0.1. I tested it on the latest 3.x iso (3.8.4)
+and it was also impacted.
 
 ## Timeline
 
