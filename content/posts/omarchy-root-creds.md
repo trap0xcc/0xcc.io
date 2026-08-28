@@ -30,8 +30,7 @@ docker run ...
 
 without typing `sudo`.
 
-The problem is that membership in the `docker` group grants the process the
-ability to run as root. On arch the Docker daemon runs as root and listens on:
+On arch the Docker daemon runs as root and listens on:
 
 ```text
 /var/run/docker.sock
