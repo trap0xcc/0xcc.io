@@ -154,7 +154,8 @@ being reported which is a healthy sign.
 
 That said, this isn't the first time I have ran into security issues with
 Omarchy and frankly I do not trust the decision making process as it stands to
-ensure the level of security I expect out of my distro.
+ensure the level of security I expect out of my distro. I hope that changes at
+some point because there is a lot to like about Omarchy.
 
 ## Podman
 
