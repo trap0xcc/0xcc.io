@@ -144,7 +144,8 @@ reports of developer machines being compromised and their access used to
 contaminate the software supply chain or exploit production systems. Developers
 are high-value targets because of the level of access they are often granted.
 Developer machines typically disable security guardrails for convenience, store
-credentials in plain-text dotfiles, and accumulate access to systems.
+credentials in plain-text dotfiles, and accumulate access to systems. This
+**must** change.
 
 I'm sure this was just an oversight by DHH not knowing the implications of
 adding the docker group. No distribution is going to make perfect decisions
