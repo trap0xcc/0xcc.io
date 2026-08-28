@@ -8,7 +8,7 @@ title = 'Omarchy - Every Process Runs with Root'
 essentially every program running in the user's desktop session could escalate
 to root without a password, `sudo`, or a privilege prompt.**
 
-If you use[Omarchy](https://omarchy.org), the most important takeaway is
+If you use [Omarchy](https://omarchy.org), the most important takeaway is
 simple: **update to 4.0.1.**
 
 <iframe width="600" height="380" src="https://www.youtube.com/embed/_ZbhaoJt7tI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
