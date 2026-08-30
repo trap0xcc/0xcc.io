@@ -1,7 +1,7 @@
 +++
 date = '2026-08-28T11:30:00-06:00'
 draft = false
-title = 'Omarchy - Every Process Runs with Root'
+title = 'Omarchy: Any User Process Can Escalate to Root'
 +++
 
 **A security issue in Omarchy's default Docker configuration meant that
